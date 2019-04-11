@@ -21,19 +21,33 @@ Given a new email receipt with information such as brand Id, retailer data, item
 #### Output: Product Category
 
 Tops – 110
+
 Bottoms - 120
+
 Dresses - 140
+
 Jumpsuits - 130
+
 Outerwear - 150
+
 Activewear - 160
+
 Beachwear- 170
+
 Shoes - 200
+
 Bags - 300
+
 Accessories 400
+
 Beauty 500
+
 Miscellaneous 600
+
 Kids 610
+
 Mens 620
+
 None 0
 
 The information I am interested in such as ‘item name’, ‘brand name’ and ‘category Id’ exists in strings. This is a supervised machine learning text classification problem. Predicting the right category on the provided string will help this company best serve its clients.
