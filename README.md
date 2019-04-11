@@ -52,4 +52,4 @@ None 0
 
 The information I am interested in such as ‘item name’, ‘brand name’ and ‘category Id’ exists in strings. This is a supervised machine learning text classification problem. Predicting the right category on the provided string will help this company best serve its clients.
 
-To tackle this problem, I investigated which supervised methods are best suited to handle text data, multi-class classification and imbalanced classes.  Upon cleaning the data, engineering features, and balancing classes, I implemented Naive Bayes, Multinomial Logistic Regression, Support Vector Machine and Tree-based models.
+To tackle this problem, I investigated which supervised methods are best suited to handle text data, multi-class classification and imbalanced classes.  Upon cleaning the data, engineering features, and balancing classes, I implemented Multinomial Logistic Regression.
